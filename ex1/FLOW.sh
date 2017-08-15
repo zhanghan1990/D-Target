@@ -1,0 +1,10 @@
+java -cp ../target/erasure_code-1.0-SNAPSHOT.jar com.simulation.simulation FLOW  /Users/zhanghan/Documents/文件资料/erasure_code/erasure_sim/ex1/e1 /Users/zhanghan/Documents/文件资料/erasure_code/erasure_sim/ex1/FLOWr1
+java -cp ../target/erasure_code-1.0-SNAPSHOT.jar com.simulation.simulation FLOW  /Users/zhanghan/Documents/文件资料/erasure_code/erasure_sim/ex1/e2 /Users/zhanghan/Documents/文件资料/erasure_code/erasure_sim/ex1/FLOWr2
+java -cp ../target/erasure_code-1.0-SNAPSHOT.jar com.simulation.simulation FLOW  /Users/zhanghan/Documents/文件资料/erasure_code/erasure_sim/ex1/e3 /Users/zhanghan/Documents/文件资料/erasure_code/erasure_sim/ex1/FLOWr3
+java -cp ../target/erasure_code-1.0-SNAPSHOT.jar com.simulation.simulation FLOW  /Users/zhanghan/Documents/文件资料/erasure_code/erasure_sim/ex1/e4 /Users/zhanghan/Documents/文件资料/erasure_code/erasure_sim/ex1/FLOWr4
+java -cp ../target/erasure_code-1.0-SNAPSHOT.jar com.simulation.simulation FLOW  /Users/zhanghan/Documents/文件资料/erasure_code/erasure_sim/ex1/e5 /Users/zhanghan/Documents/文件资料/erasure_code/erasure_sim/ex1/FLOWr5
+java -cp ../target/erasure_code-1.0-SNAPSHOT.jar com.simulation.simulation FLOW  /Users/zhanghan/Documents/文件资料/erasure_code/erasure_sim/ex1/e6 /Users/zhanghan/Documents/文件资料/erasure_code/erasure_sim/ex1/FLOWr6
+java -cp ../target/erasure_code-1.0-SNAPSHOT.jar com.simulation.simulation FLOW  /Users/zhanghan/Documents/文件资料/erasure_code/erasure_sim/ex1/e7 /Users/zhanghan/Documents/文件资料/erasure_code/erasure_sim/ex1/FLOWr7
+java -cp ../target/erasure_code-1.0-SNAPSHOT.jar com.simulation.simulation FLOW  /Users/zhanghan/Documents/文件资料/erasure_code/erasure_sim/ex1/e8 /Users/zhanghan/Documents/文件资料/erasure_code/erasure_sim/ex1/FLOWr8
+java -cp ../target/erasure_code-1.0-SNAPSHOT.jar com.simulation.simulation FLOW  /Users/zhanghan/Documents/文件资料/erasure_code/erasure_sim/ex1/e9 /Users/zhanghan/Documents/文件资料/erasure_code/erasure_sim/ex1/FLOWr9
+java -cp ../target/erasure_code-1.0-SNAPSHOT.jar com.simulation.simulation FLOW  /Users/zhanghan/Documents/文件资料/erasure_code/erasure_sim/ex1/e10 /Users/zhanghan/Documents/文件资料/erasure_code/erasure_sim/ex1/FLOWr10

@@ -1,0 +1,10 @@
+java -cp ../target/erasure_code-1.0-SNAPSHOT.jar com.simulation.simulation SEBF  /Users/zhanghan/Documents/文件资料/erasure_code/erasure_sim/ex1/e1 /Users/zhanghan/Documents/文件资料/erasure_code/erasure_sim/ex1/SEBFr1
+java -cp ../target/erasure_code-1.0-SNAPSHOT.jar com.simulation.simulation SEBF  /Users/zhanghan/Documents/文件资料/erasure_code/erasure_sim/ex1/e2 /Users/zhanghan/Documents/文件资料/erasure_code/erasure_sim/ex1/SEBFr2
+java -cp ../target/erasure_code-1.0-SNAPSHOT.jar com.simulation.simulation SEBF  /Users/zhanghan/Documents/文件资料/erasure_code/erasure_sim/ex1/e3 /Users/zhanghan/Documents/文件资料/erasure_code/erasure_sim/ex1/SEBFr3
+java -cp ../target/erasure_code-1.0-SNAPSHOT.jar com.simulation.simulation SEBF  /Users/zhanghan/Documents/文件资料/erasure_code/erasure_sim/ex1/e4 /Users/zhanghan/Documents/文件资料/erasure_code/erasure_sim/ex1/SEBFr4
+java -cp ../target/erasure_code-1.0-SNAPSHOT.jar com.simulation.simulation SEBF  /Users/zhanghan/Documents/文件资料/erasure_code/erasure_sim/ex1/e5 /Users/zhanghan/Documents/文件资料/erasure_code/erasure_sim/ex1/SEBFr5
+java -cp ../target/erasure_code-1.0-SNAPSHOT.jar com.simulation.simulation SEBF  /Users/zhanghan/Documents/文件资料/erasure_code/erasure_sim/ex1/e6 /Users/zhanghan/Documents/文件资料/erasure_code/erasure_sim/ex1/SEBFr6
+java -cp ../target/erasure_code-1.0-SNAPSHOT.jar com.simulation.simulation SEBF  /Users/zhanghan/Documents/文件资料/erasure_code/erasure_sim/ex1/e7 /Users/zhanghan/Documents/文件资料/erasure_code/erasure_sim/ex1/SEBFr7
+java -cp ../target/erasure_code-1.0-SNAPSHOT.jar com.simulation.simulation SEBF  /Users/zhanghan/Documents/文件资料/erasure_code/erasure_sim/ex1/e8 /Users/zhanghan/Documents/文件资料/erasure_code/erasure_sim/ex1/SEBFr8
+java -cp ../target/erasure_code-1.0-SNAPSHOT.jar com.simulation.simulation SEBF  /Users/zhanghan/Documents/文件资料/erasure_code/erasure_sim/ex1/e9 /Users/zhanghan/Documents/文件资料/erasure_code/erasure_sim/ex1/SEBFr9
+java -cp ../target/erasure_code-1.0-SNAPSHOT.jar com.simulation.simulation SEBF  /Users/zhanghan/Documents/文件资料/erasure_code/erasure_sim/ex1/e10 /Users/zhanghan/Documents/文件资料/erasure_code/erasure_sim/ex1/SEBFr10
