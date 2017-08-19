@@ -1,5 +1,7 @@
 # D-Target
 D-Target is a scheduler that tries to minimize File Access Time (FAT) in data center network
+ex1 and ex2 contain some traces 
+
 ## How to compile
 mvn package
 
