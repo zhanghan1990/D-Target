@@ -1,4 +1,5 @@
 # D-Target
+D-Target is a scheduler that tries to minimize File Access Time (FAT) in data center network
 ## How to compile
 mvn package
 
